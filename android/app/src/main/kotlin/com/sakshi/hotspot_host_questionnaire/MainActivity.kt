@@ -1,7 +1,6 @@
 package com.sakshi.hotspot_host_questionnaire
 
-import android.app.Activity
+import io.flutter.embedding.android.FlutterActivity
 
-class MainActivity : Activity() {
-
+class MainActivity: FlutterActivity() {
 }
